@@ -1,0 +1,11 @@
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/bin/Debug/net8.0/TestCaseSupport.deps.json
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/bin/Debug/net8.0/TestCaseSupport.dll
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/bin/Debug/net8.0/TestCaseSupport.pdb
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.csproj.AssemblyReference.cache
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.csproj.CoreCompileInputs.cache
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.sourcelink.json
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.dll
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/refint/TestCaseSupport.dll
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/TestCaseSupport.pdb
+/Users/nathanzemke/Downloads/ToScan/testcasesupport/TestCaseSupport/obj/Debug/net8.0/ref/TestCaseSupport.dll

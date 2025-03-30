@@ -1,0 +1,14 @@
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.csproj.AssemblyReference.cache
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.csproj.CoreCompileInputs.cache
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\CWE369_Divide_by_Zero_s01.exe.config
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\CWE369_Divide_by_Zero_s01.exe
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\CWE369_Divide_by_Zero_s01.pdb
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\NLog.dll
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\TestCaseSupport.dll
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\TestCaseSupport.pdb
+X:\CWE\testcases\CWE369_Divide_by_Zero\bin\Debug\NLog.xml
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.csproj.SuggestedBindingRedirects.cache
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.exe.config
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_D.4BCF5159.Up2Date
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.exe
+X:\CWE\testcases\CWE369_Divide_by_Zero\obj\Debug\CWE369_Divide_by_Zero_s01.pdb
